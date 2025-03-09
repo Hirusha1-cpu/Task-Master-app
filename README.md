@@ -82,8 +82,5 @@ We welcome contributions to improve Task Master Pro. If you have a feature reque
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-For any questions or inquiries, please reach out to us at [DevOps Shack](https://www.youtube.com/@devopsshack/videos)
 
 Happy coding!
